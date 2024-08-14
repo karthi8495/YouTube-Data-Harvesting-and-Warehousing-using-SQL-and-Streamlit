@@ -1,0 +1,15 @@
+googleapiclient.discovery 
+pymongo
+re
+mysql.connector
+pandas
+streamlit 
+
+
+1.open new terminal "Set-ExecutionPolicy RemoteSigned -Scope Process" run this code
+
+2.Then activate virtual enviroinment mode
+
+3.Then Need to install required packages
+
+4.Then Run the app.py file
